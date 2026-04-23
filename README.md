@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | A3mel Eih |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك بالليل
+> نور عيوني في الظلام دليل
+> أعمل إيه والشوق بيكوي الروح
+> خليك معايا دا العذاب طويل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
